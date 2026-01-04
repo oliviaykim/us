@@ -1,0 +1,1 @@
+global.date2good=false

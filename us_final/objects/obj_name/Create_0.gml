@@ -1,0 +1,1 @@
+global.name2good = false

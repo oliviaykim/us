@@ -1,0 +1,1 @@
+global.creep_counter = 0
